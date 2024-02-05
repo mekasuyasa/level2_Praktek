@@ -1,2 +1,2 @@
-# level2_Praktek
+# level2_praktek
 Repo dalam rangka praktikum level2
